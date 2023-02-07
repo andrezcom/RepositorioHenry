@@ -1,0 +1,2 @@
+Este es el primer archivo creado con el comando tuch
+paso siguiente voy a agregarlo a git y a hacer un comit
